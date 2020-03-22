@@ -4,5 +4,65 @@
 Introduzione a MyPortal 3
 #########################
 
+MyPortal 3 è il nuovo Portale degli Enti del Veneto. Sostituisce l’attuale MyPortal 2.5. Circa 130 Enti su MyP 2.5 migreranno a MyP 3.Nuovi Enti sono pronti ad entrare
+
+.. _h5214366583543544b2e337872406a53:
+
+MyPortal 3 come evoluzione di MyPortal 2.5
+******************************************
+
+MyPortal 3 è l’evoluzione del sistema MyPortal 2.5. L’evoluzione/revisione ha interessato principalmente:
+
+* architettura del Sistema (MyPlace – piattaforma servizi di e-gov per il territorio)
+
+* layout del web portal (approccio mobile first)
+
+* modello di gestione della struttura del web portal e contenuti del CMS
+
+* modello di gestione Utenti e Profili
+
+Per l’Ente non cambiano le figure richieste di Amministratore e Redattore di Portale
+
+.. _h6436387c2b795479551c33396e6778:
+
+Componenti principali di MyPortal 3
+***********************************
+
+#. \ |STYLE0|\ : è il Portale del Cittadino utilizzato per la ricerca di contenuti nel cluster MyP3 e mette a disposizione un’Area Personale.
+
+#. \ |STYLE1|\ : è il Portale degli Operatori dell’Ente, utilizzato per Amministrare il Portale Istituzionale dell’Ente e per fare Redazione
+
+#. \ |STYLE2|\  E’ il Portale Istituzionale dell’Ente
+
+.. raw:: html
+
+    <img class="imageLeft" style="width: 360px;"src="https://github.com/nifreddo/Myportal3UserGuide/blob/master/static/3componenti.png">
+
+<p></p>
+
+.. _hf381c939775c343d755b7127783f:
+
+	MyPortal 3 è “accessibile”, “usabile” e “responsivo”:
+******************************************************
+
+* \ |STYLE3|\  Tema (CSS) configurato secondo Linee Guida WCAG Contenuti fruibili anche da persone non normodotate Vedi p.es. contrasto
+
+* \ |STYLE4|\  Struttura conforme a Linee Guida Design Italia – AGID Facilità navigazione, vedi p.es. assenza menu 2° Livello
+
+* \ |STYLE5|\  Portale indipendente da dispositivo e risoluzione.
+
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **MyPA**
+
+.. |STYLE1| replace:: **MyIntranet**
+
+.. |STYLE2| replace:: **Myportal:**
+
+.. |STYLE3| replace:: **Accessibilità:**
+
+.. |STYLE4| replace:: **Usabilità:**
+
+.. |STYLE5| replace:: **Responsività:**

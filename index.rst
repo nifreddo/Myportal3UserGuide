@@ -1,12 +1,15 @@
 
-.. _h52432f601575a1b65591d793614447e:
+.. _h5433a6c537a6d1c5c5414c26585c30:
 
-MyPortal 3 Corso Amministratori e Redattori di Portale
-######################################################
+MyPortal 3 Manuale Amministratori e Redattori di Portale
+########################################################
 
 Scope Informativo Sessione 1/2019 - 24 gennaio 2019
 
-Il corso è rivolto agli Amministratori e Redattori dei Portali degli Enti del nuovo cluster MyPortal 3. Obiettivo del corso è acquisire le competenze per amministrare il portale web e fare redazione.
+Il manuale è rivolto agli Amministratori e Redattori dei Portali degli Enti del nuovo cluster MyPortal 3. Obiettivo del corso è acquisire le competenze per amministrare il portale web e fare redazione.
+
+Il Manuale comprende didattica ed esercitazioni
+
 
 .. admonition:: Nota
 
@@ -28,33 +31,11 @@ Il corso è rivolto agli Amministratori e Redattori dei Portali degli Enti del n
 
     2.rst
 
-    messaggi_colorati.md
+    3.rst
 
-    GGeditor-script-per-Google-Doc.rst
+    4.rst
 
-.. toctree::  
-
-    :maxdepth: 4
-
-    :caption: Risorse
-
-    MD_per_RTD.md
-
-.. toctree::  
-
-    :maxdepth: 2
-
-    :caption: Altre risorse
-
-    external_link.md
-
-.. toctree::  
-
-    :maxdepth: 2
-
-    :caption: External contribution
-
-    build_fail.md
+    5.rst
 
 .. toctree::  
 
