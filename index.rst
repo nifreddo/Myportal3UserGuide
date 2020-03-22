@@ -1,3 +1,11 @@
+
+.. _h52432f601575a1b65591d793614447e:
+
+MyPortal 3 Corso Amministratori e Redattori di Portale
+######################################################
+
+Scope Informativo
+
 .. toctree::
 
   :maxdepth: 2
