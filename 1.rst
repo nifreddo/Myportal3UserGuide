@@ -34,6 +34,10 @@ Componenti principali di MyPortal 3
 
 #. \ |STYLE2|\  E’ il Portale Istituzionale dell’Ente
 
+.. raw:: html
+
+    <img class="imageLeft" style="width: 360px;" src="https://github.com/nifreddo/Myportal3UserGuide/blob/master/static/3componenti.png">
+
 
 .. bottom of content
 
