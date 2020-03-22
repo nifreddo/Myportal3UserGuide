@@ -8,9 +8,9 @@ Scope Informativo Sessione 1/2019 - 24 gennaio 2019
 
 .. toctree::
 
-:maxdepth: 2
+    :maxdepth: 2
 
-Home <https://myportal3-guida-utente.readthedocs.io> 
+    Home <https://myportal3-guida-utente.readthedocs.io> 
 
 .. toctree::
 
