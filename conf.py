@@ -19,7 +19,7 @@ __version__ = '1.0'
 
 # source_suffix = '.rst' eliminato dal conf.py di tansignari #
 master_doc = 'index'
-project = 'schema tipo Read the Docs'
+project = 'MyPortal 3 Manuale'
 copyright = 'change-me'
 
 # The name of the Pygments (syntax highlighting) style to use.
