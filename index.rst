@@ -36,30 +36,6 @@ Il corso è rivolto agli Amministratori e Redattori dei Portali degli Enti del n
 
 .. toctree::  
 
-    :maxdepth: 4
-
-    :caption: Risorse
-
-    MD_per_RTD.md
-
-.. toctree::  
-
-    :maxdepth: 2
-
-    :caption: Altre risorse
-
-    external_link.md
-
-.. toctree::  
-
-    :maxdepth: 2
-
-    :caption: External contribution
-
-    build_fail.md
-
-.. toctree::  
-
     :maxdepth: 3
 
     :caption: Informativa Privacy
