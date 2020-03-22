@@ -38,6 +38,8 @@ Componenti principali di MyPortal 3
 
     <img class="imageLeft" style="width: 360px;" src="\ |LINK1|\ ">
 
+<p></p>
+
 .. _hf381c939775c343d755b7127783f:
 
 	MyPortal 3 è “accessibile”, “usabile” e “responsivo”:
