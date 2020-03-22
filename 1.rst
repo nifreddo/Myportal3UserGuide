@@ -36,7 +36,18 @@ Componenti principali di MyPortal 3
 
 .. raw:: html
 
-    <img class="imageLeft" style="width: 360px;" src="https://github.com/nifreddo/Myportal3UserGuide/blob/master/static/3componenti.png">
+    <img class="imageLeft" style="width: 360px;" src="\ |LINK1|\ ">
+
+.. _hf381c939775c343d755b7127783f:
+
+	MyPortal 3 è “accessibile”, “usabile” e “responsivo”:
+******************************************************
+
+* \ |STYLE3|\  Tema (CSS) configurato secondo Linee Guida WCAG Contenuti fruibili anche da persone non normodotate Vedi p.es. contrasto
+
+* \ |STYLE4|\  Struttura conforme a Linee Guida Design Italia – AGID Facilità navigazione, vedi p.es. assenza menu 2° Livello
+
+* \ |STYLE5|\  Portale indipendente da dispositivo e risoluzione.
 
 
 .. bottom of content
@@ -47,3 +58,15 @@ Componenti principali di MyPortal 3
 .. |STYLE1| replace:: **MyIntranet**
 
 .. |STYLE2| replace:: **Myportal:**
+
+.. |STYLE3| replace:: **Accessibilità:**
+
+.. |STYLE4| replace:: **Usabilità:**
+
+.. |STYLE5| replace:: **Responsività:**
+
+
+.. |LINK1| raw:: html
+
+    <a href="https://github.com/nifreddo/Myportal3UserGuide/blob/master/static/3componenti.png" target="_blank">https://github.com/nifreddo/Myportal3UserGuide/blob/master/static/3componenti.png</a>
+
