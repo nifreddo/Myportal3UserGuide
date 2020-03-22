@@ -36,7 +36,7 @@ Componenti principali di MyPortal 3
 
 .. raw:: html
 
-    <img class="imageLeft" style="width: 360px;" src="\ |LINK1|\ ">
+    <img class="imageLeft" style="width: 360px;"src="\ |LINK1|\ ">
 
 <p></p>
 
