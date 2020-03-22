@@ -6,6 +6,12 @@ MyPortal 3 Corso Amministratori e Redattori di Portale
 
 Scope Informativo Sessione 1/2019 - 24 gennaio 2019
 
+Il corso è rivolto agli Amministratori e Redattori dei Portali degli Enti del nuovo cluster MyPortal 3. Obiettivo del corso è acquisire le competenze per amministrare il portale web e fare redazione.
+
+.. admonition:: Nota
+
+    Per i portali importati da MyPortal 2.5 Amministratori e Redattori potranno completare la migrazione e procedere con lo switch del servizio
+
 .. toctree::
 
     :maxdepth: 2
