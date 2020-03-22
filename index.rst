@@ -1,65 +1,73 @@
 
-.. _h52432f601575a1b65591d793614447e:
+.. _h2462165415397d198987d2a47a2e:
 
-MyPortal 3 Corso Amministratori e Redattori di Portale
-######################################################
+MyPortal▪3▪Corso▪Amministratori▪e▪Redattori▪di▪Portale¶
+#######################################################
 
-Scope Informativo
+Scope▪Informativo▪Sessione▪1/2019▪-▪24▪gennaio▪2019¶
 
-.. toctree::
+❡
 
-  :maxdepth: 2
+toctree::¶
 
-  Home <https://myportal3-guida-utente.readthedocs.io> 
+:maxdepth:▪2¶
 
-.. toctree::  
+Home▪<https://myportal3-guida-utente.readthedocs.io>▪¶
 
-    :maxdepth: 4
+❡
 
-    :caption: index (max 30 caratteri)
+toctree::¶
 
-    1.rst
+▪▪▪▪:maxdepth:▪4¶
 
-    2.rst
+▪▪▪▪:caption:▪index▪(max▪30▪caratteri)¶
 
-    messaggi_colorati.md
+▪▪▪▪1.rst¶
 
-    GGeditor-script-per-Google-Doc.rst
+▪▪▪▪2.rst¶
 
-    
+▪▪▪▪messaggi_colorati.md¶
 
-.. toctree::  
+▪▪▪▪GGeditor-script-per-Google-Doc.rst¶
 
-    :maxdepth: 4
+❡
 
-    :caption: Risorse
+..▪toctree::▪▪¶
 
-    MD_per_RTD.md
+▪▪▪▪:maxdepth:▪4¶
 
-    
+▪▪▪▪:caption:▪Risorse¶
 
-.. toctree::  
+▪▪▪▪MD_per_RTD.md¶
 
-    :maxdepth: 2
+❡
 
-    :caption: Altre risorse
+..▪toctree::▪▪¶
 
-    external_link.md
+▪▪▪▪:maxdepth:▪2¶
 
-.. toctree::  
+▪▪▪▪:caption:▪Altre▪risorse¶
 
-    :maxdepth: 2
+▪▪▪▪external_link.md¶
 
-    :caption: External contribution
+❡
 
-    build_fail.md
+..▪toctree::▪▪¶
 
-.. toctree::  
+▪▪▪▪:maxdepth:▪2¶
 
-    :maxdepth: 3
+▪▪▪▪:caption:▪External▪contribution¶
 
-    :caption: Informativa Privacy
+▪▪▪▪build_fail.md¶
 
-    privacy.md
+❡
+
+..▪toctree::▪▪¶
+
+▪▪▪▪:maxdepth:▪3¶
+
+▪▪▪▪:caption:▪Informativa▪Privacy¶
+
+▪▪▪▪privacy.md¶
 
 .. bottom of content
