@@ -1,106 +1,67 @@
-Myportal Manuale d'uso utente
-*********************
 
-.. raw:: html
+.. _h52432f601575a1b65591d793614447e:
 
-    <img class="imageLeft" style="width: 360px;" src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/robin_batman.PNG">
+MyPortal 3 Corso Amministratori e Redattori di Portale
+######################################################
 
-``cultura della documentazione`` 
+Scope Informativo Sessione 1/2019 - 24 gennaio 2019
 
-Questo progetto è solo una dimostrazione dell'esposizione di contenuti su **Read the Docs**.
+Il corso è rivolto agli Amministratori e Redattori dei Portali degli Enti del nuovo cluster MyPortal 3. Obiettivo del corso è acquisire le competenze per amministrare il portale web e fare redazione.
 
+.. admonition:: Nota
 
-
-.. raw:: html
-
-    <img class="imageLeft" style="width: 360px;" src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/rtd.png">
-    <p></p>
-
-
-
-
-.. raw:: html
-
-    <strong><span style="background-color: #49634e; color: #ffffff; display: inline-block; padding: 1px 3px; border-radius: 7px;">Questa è solo una bozza</span></strong>
-    <p></p>
-
-
-
-.. raw:: html
-
-    <img src="https://raw.githubusercontent.com/cirospat/rtd-schematipo/master/static/help.jpg">
-    
-
-Il repository dello **schema tipo RTD** si trova a questo  `link <https://github.com/cirospat/rtd-schematipo>`_, da potere clonare per progetti di documentazione online.
-
-    
-
-Questo **Read the Docs** è uno schema tipo ottimizzato (per design e setting vari) per la pubblicazione di documenti. Settaggi quali colore della colonna sinistra e colori del testo dei paragrafi, titoli, ecc., possono essere cambiati nel file ``theme_override.css``.
-
-Altre impostazioni di visualizzazione grafica del documento su Read the Docs possono essere effettuate sui seguenti file, all'interno della cartella ``_templates``:
-
-- ``breadcrumbs.html``
-- ``footer.html``
-- ``layout.html``
-- ``searchbox.html``
-- ``versions.html``
-
-
-..  Important:: 
-    
-    Questa visualizzazione è costruita su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un progetto repository dentro ``Github``, che a sua volta espone i contenuti (automaticamente) → su pagine HTML con il design ``Read the Docs``. Qui il `tutorial <http://googledocs.readthedocs.io/it/latest/>`_.
-    
-    
-..  Important:: 
-    
-    Le impostazioni dentro il repository Github di questo progetto permettono di usare sia file in formato `.rST` (reStructuredText), che in formato `.MD` (Markdown). Le istruzioni da inserire nel file ``conf.py`` sono dettagliate in questa `ricetta di Tansignari <http://tansignari.opendatasicilia.it/it/latest/ricette/ReadtheDocs/come_fare_leggere_un_file_MD_a_ReadtheDocs.html>`_.
-
-
-   
-
-
+    Per i portali importati da MyPortal 2.5 Amministratori e Redattori potranno completare la migrazione e procedere con lo switch del servizio
 
 .. toctree::
-  :maxdepth: 2
 
-  Home <https://myportal3-guida-utente.readthedocs.io> 
+    :maxdepth: 2
 
+    Home <https://myportal3-guida-utente.readthedocs.io> 
 
+.. toctree::
 
-.. toctree::  
     :maxdepth: 4
+
     :caption: index (max 30 caratteri)
 
     1.rst
-    2.rst
-    messaggi_colorati.md
-    GGeditor-script-per-Google-Doc.rst
-    
 
+    2.rst
+
+    messaggi_colorati.md
+
+    GGeditor-script-per-Google-Doc.rst
 
 .. toctree::  
+
     :maxdepth: 4
+
     :caption: Risorse
 
     MD_per_RTD.md
-    
 
 .. toctree::  
+
     :maxdepth: 2
+
     :caption: Altre risorse
 
     external_link.md
 
-
 .. toctree::  
+
     :maxdepth: 2
+
     :caption: External contribution
 
     build_fail.md
 
-
 .. toctree::  
+
     :maxdepth: 3
+
     :caption: Informativa Privacy
 
     privacy.md
+
+.. bottom of content
