@@ -38,12 +38,10 @@ Componenti principali di MyPortal 3
 
     <img class="imageLeft" style="width: 360px;"src="https://github.com/nifreddo/Myportal3UserGuide/blob/master/static/3componenti.png">
 
-<p></p>
+.. _h235a77a5a6f635c24185871381d42:
 
-.. _hf381c939775c343d755b7127783f:
-
-	MyPortal 3 è “accessibile”, “usabile” e “responsivo”:
-******************************************************
+MyPortal 3 è “accessibile”, “usabile” e “responsivo”:
+*****************************************************
 
 * \ |STYLE3|\  Tema (CSS) configurato secondo Linee Guida WCAG Contenuti fruibili anche da persone non normodotate Vedi p.es. contrasto
 
@@ -51,6 +49,9 @@ Componenti principali di MyPortal 3
 
 * \ |STYLE5|\  Portale indipendente da dispositivo e risoluzione.
 
+.. raw:: html
+
+    <img class="imageLeft" style="width: 360px;"src="https://github.com/nifreddo/Myportal3UserGuide/blob/master/static/home_menu.png">
 
 .. bottom of content
 
