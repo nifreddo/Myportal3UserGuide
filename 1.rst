@@ -36,7 +36,7 @@ Componenti principali di MyPortal 3
 
 .. raw:: html
 
-    <img class="imageLeft" style="width: 360px;"src="\ |LINK1|\ ">
+    <img class="imageLeft" style="width: 360px;"src="https://github.com/nifreddo/Myportal3UserGuide/blob/master/static/3componenti.png">
 
 <p></p>
 
@@ -66,9 +66,3 @@ Componenti principali di MyPortal 3
 .. |STYLE4| replace:: **Usabilità:**
 
 .. |STYLE5| replace:: **Responsività:**
-
-
-.. |LINK1| raw:: html
-
-    <a href="https://github.com/nifreddo/Myportal3UserGuide/blob/master/static/3componenti.png" target="_blank">https://github.com/nifreddo/Myportal3UserGuide/blob/master/static/3componenti.png</a>
-
