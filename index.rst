@@ -28,9 +28,11 @@ Il corso è rivolto agli Amministratori e Redattori dei Portali degli Enti del n
 
     2.rst
 
-    messaggi_colorati.md
+    3.rst
 
-    GGeditor-script-per-Google-Doc.rst
+    4.rst
+
+    5.rst
 
 .. toctree::  
 
