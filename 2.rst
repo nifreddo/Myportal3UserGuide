@@ -43,7 +43,7 @@ Eseguire il Logout, cliccando sull’omino in alto a destra
 
 .. raw:: html
 
- <img class="imageLeft" style="width: 800px;"src="https://raw.githubusercontent.com/nifreddo/Myportal3UserGuide/master/staticmyintranet_logout.png">
+ <img class="imageLeft" style="width: 800px;"src="https://raw.githubusercontent.com/nifreddo/Myportal3UserGuide/master/static/myintranet_logout.png">
 
 Arriverà una mail di richiesta all’Amministratore del portale che provvederà all’abilitazione e sarete avvisati tramite e-mail.
 
