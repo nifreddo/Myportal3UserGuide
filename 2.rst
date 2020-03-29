@@ -21,11 +21,15 @@ Scegliere \ |STYLE0|\ . Compilare il modulo in tutte le sue parti e fare clic su
 
 Completata la registrazione andare al link \ |LINK2|\ 
 
+.. raw:: html
+
  <img class="imageLeft" style="width: 800px;"src="https://raw.githubusercontent.com/nifreddo/Myportal3UserGuide/master/static/benvenuto_myintranet.png">
 
 Clic su ACCEDI 
 
- <img class="imageLeft" style="width: 800px;"src="https://raw.githubusercontent.com/nifreddo/Myportal3UserGuide/master/static/accsso_myid.png">
+.. raw:: html
+
+ <img class="imageLeft" style="width: 800px;"src="https://raw.githubusercontent.com/nifreddo/Myportal3UserGuide/master/static/accesso_myid.png">
 
 Entra con il gestore dell'identità del Sistema MyID: Regione Veneto
 
