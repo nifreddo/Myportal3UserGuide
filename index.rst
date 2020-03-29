@@ -37,6 +37,8 @@ Il Manuale comprende didattica ed esercitazioni
 
     5.rst
 
+    6.rst
+
 .. toctree::  
 
     :maxdepth: 3
