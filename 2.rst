@@ -1,7 +1,21 @@
+
 .. _h6765c6150275c1a5633236b3d6a118:
 
 Accesso e Profilatura Utenti
 ############################
 
+.. _h14637021a5e2ed502243666e82770:
+
+Iscrizione nuovo utente
+***********************
+
+per l'iscrizione occorre utilizzare il seguente link \ |LINK1|\ 
+
 
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="https://myid.regione.veneto.it/idm/?execution=e2s1" target="_blank">https://myid.regione.veneto.it/idm/?execution=e2s1</a>
+
